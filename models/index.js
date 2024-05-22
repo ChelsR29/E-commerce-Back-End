@@ -22,7 +22,7 @@ Product.belongsToMany(Tag, {
     unique: false
   },
   as: 'product_to_tags'
-})
+});
 
 // Tags belongToMany Products (through ProductTag)
 Tag.belongsToMany(Product, {
