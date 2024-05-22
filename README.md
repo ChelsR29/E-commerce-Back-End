@@ -2,7 +2,7 @@
 
 ## Description
 
-This is back-end code for a ecommerce website, it takes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
+This is back-end code for an ecommerce website, it takes a working Express.js API and configures it to use Sequelize to interact with a MySQL database.
 
 ## Walkthrough
 
